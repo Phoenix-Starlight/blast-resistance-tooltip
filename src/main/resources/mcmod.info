@@ -1,13 +1,13 @@
 [
 	{
-		"modid": "samplemod112",
-		"name": "Sample Mod 1.12",
-		"description": "Sample mod for 1.12.2, using ForgeGradle 5.1.",
+		"modid": "blastresistancetooltips",
+		"name": "Blast Resistance Tooltips",
+		"description": "Displays blast resistance in tooltips.",
 		"version": "${version}",
 		"mcversion": "1.12.2",
 		"url": "",
 		"updateUrl": "",
-		"authorList": ["You!"],
+		"authorList": ["Fury_Phoenix"],
 		"credits": "",
 		"logoFile": "",
 		"screenshots": [],
